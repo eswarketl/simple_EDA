@@ -1,4 +1,4 @@
-# simple_EDA
+# Simple EDA
 Simple Exploratory Data Analysis to understand nature of datasets
 
 List of EDAs:
