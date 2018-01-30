@@ -8,3 +8,4 @@ In statistics, **exploratory data analysis (EDA)** is an approach to analyzing d
 ## List of EDAs:
 
 * [Iris EDA](Iris%20EDA.ipynb)
+* [Cryotheraphy EDA] (plots%20using%20Cryotheraphy%20dataset.ipynb)
